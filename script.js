@@ -142,7 +142,7 @@ let a = await fetch(req)
           <div class="card-body">
             <h5 class="card-title">${item.title}</h5>
             <p class="card-text">${item.description}</p>
-            <a href="${item.url}" target = "_blank" class="btn btn-primary">Go somewhere</a>
+            <a href="${item.url}" target = "_blank" class="btn btn-primary">Read More</a>
           </div>
         </div>
     
